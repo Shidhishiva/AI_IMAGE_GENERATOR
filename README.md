@@ -1,2 +1,2 @@
 # AI_IMAGE_GENERATOR
-This webapp is openai image generator 
+This webapp generates images through AI when  we inputs text.
